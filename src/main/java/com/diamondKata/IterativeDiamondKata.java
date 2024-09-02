@@ -11,7 +11,7 @@ public class IterativeDiamondKata {
         // USER INPUTS
         Scanner scanner = new Scanner(System.in);
         // PROMPT FOR USER
-        //System.out.print("Enter a letter from A to Z: ");
+        System.out.print("Enter a letter from A to Z: ");
 
         /** Here we are upper-casing the characters/Alphabets.
          we can also handle small case alphabets as well in future**/
